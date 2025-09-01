@@ -452,8 +452,7 @@ console.log("🚀 Always learning, always building!");
 <!-- Visitor Counter & Stats -->
 <div align="center">
 
-<!-- Alternative GitHub Activity Animation -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SYCRAFT21&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FF6B6B&area=true&area_color=58A6FF&title_color=58A6FF&custom_title=Contribution%20Activity"/>
+<!-- ![Snake animation](https://github.com/SYCRAFT21/SYCRAFT21/blob/output/github-contribution-grid-snake.svg) -->
 
 <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Powered_by-GitHub-58A6FF?style=for-the-badge&logo=github"/>
