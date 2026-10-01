@@ -1,13 +1,16 @@
-# Muhammad Syarkawi
+<h1 align="center">Hey, I'm Muhammad Syarkawi 👋</h1>
 
-**Systems & Infrastructure Engineer**  
-Linux · Server Hardware · Virtualization · Networking
+<p align="center"><strong>Systems & Infrastructure Engineer</strong></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1400&color=2F81F7&center=true&vCenter=true&width=480&height=45&lines=Linux+%C2%B7+Servers+%C2%B7+Networking;Build.+Test.+Break.+Troubleshoot.;Code+for+tools+and+automation." alt="Linux, servers, networking. Build, test, break, troubleshoot. Code for tools and automation." />
+</p>
+
+<p align="center">Based in Indonesia · Open to remote opportunities</p>
+
+## 👨‍💻 About Me
 
 I like figuring out why things break — whether it's a server, a network, or a piece of code.
-
-Indonesia · **Open to remote opportunities**
-
-## About Me
 
 Around four years of hands-on experience in a startup, working across hardware, Linux, networking, development, and QA. Systems and infrastructure are my main focus; coding helps me build tools and automate tasks.
 
@@ -15,7 +18,13 @@ Around four years of hands-on experience in a startup, working across hardware, 
 - **Learning:** web penetration testing through HTB Academy, infrastructure security, basic RAG, experimental LLM fine-tuning, and IoT.
 - **Open to collaborating on:** Linux, infrastructure, automation, and backend projects.
 
-## Toolbox
+## 🛠️ Toolbox
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 | Focus | Tools & experience |
 | --- | --- |
@@ -24,7 +33,7 @@ Around four years of hands-on experience in a startup, working across hardware, 
 | Databases | PostgreSQL, MariaDB / MySQL |
 | Learning & experiments | llama.cpp, LM Studio, Transformers, Arduino Uno, ESP32 |
 
-## Selected Work
+## 🔧 Things I've Worked On
 
 - **Dell PowerEdge R730** — Restored an unresponsive server after diagnosing motherboard power damage and replacing the board.
 - **Solidity debugging** — Traced repeated sell transaction reverts to incorrect `swapBack` logic.
@@ -35,14 +44,18 @@ Around four years of hands-on experience in a startup, working across hardware, 
 
 <!-- Add Repository, Demo, or Case Study links beside each project only when URLs are available. -->
 
-## Education & Certifications
+<details>
+<summary><strong>🎓 Education & certifications</strong></summary>
 
 **Universitas Terbuka** — Bachelor's in Information Systems · In progress  
 **SMK Negeri 1 Bireuen** — Computer and Network Engineering (TKJ)
 
 BuildWithAngga:
+
 - Web Developer with Laravel 11 & Spatie: Website Fundraising
 - Bootcamp Full-Stack Web Developer: Sewa Mobil
+
+</details>
 
 ---
 
