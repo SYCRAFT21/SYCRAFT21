@@ -3,64 +3,51 @@
 **Systems & Infrastructure Engineer**  
 Linux · Server Hardware · Virtualization · Networking
 
-> I like figuring out why things break — from servers and networks to applications and code.
+I like figuring out why things break — whether it's a server, a network, or a piece of code.
 
-Based in Indonesia · **Open to remote opportunities**
-
-<!-- [Portfolio](PORTFOLIO_URL) · [LinkedIn](LINKEDIN_URL) · [Email](mailto:EMAIL_ADDRESS) -->
+Indonesia · **Open to remote opportunities**
 
 ## About Me
 
-Around four years of hands-on technical experience in a startup, working across hardware, Linux, networking, web development, and QA. My background is in Computer and Network Engineering (TKJ), and I'm pursuing a Bachelor's degree in Information Systems.
+Around four years of hands-on experience in a startup, working across hardware, Linux, networking, development, and QA. Systems and infrastructure are my main focus; coding helps me build tools and automate tasks.
 
-Systems and infrastructure are my main focus; development and automation support that work. I learn by building, testing, breaking things, and troubleshooting.
+- **Building:** an AI trading bot, a personal finance system, and local LLM experiments.
+- **Learning:** web penetration testing through HTB Academy, infrastructure security, basic RAG, experimental LLM fine-tuning, and IoT.
+- **Open to collaborating on:** Linux, infrastructure, automation, and backend projects.
 
-## Technical Toolbox
+## Toolbox
 
-| Area | Tools & experience |
+| Focus | Tools & experience |
 | --- | --- |
-| Systems | Linux, system administration, virtualization, server hardware, OS deployment |
-| Networking | TCP/IP, LAN, MikroTik, routers, structured cabling, fiber optic splicing |
-| Development | PHP, Laravel, Python, JavaScript, SQL |
+| Systems & networking | Linux, virtualization, server hardware, OS deployment, TCP/IP, MikroTik, cabling & fiber splicing |
+| Development & QA | PHP, Laravel, Python, JavaScript, SQL, Solidity debugging |
 | Databases | PostgreSQL, MariaDB / MySQL |
-| QA | Solidity, smart contract testing, debugging |
+| Learning & experiments | llama.cpp, LM Studio, Transformers, Arduino Uno, ESP32 |
 
-## Selected Projects
+## Selected Work
 
-- **Dell PowerEdge R730 Recovery** — Restored an unresponsive server after identifying power-related motherboard damage and replacing the system board.
-- **Solidity Transaction Debugging** — Isolated incorrect `swapBack` logic behind repeated sell transaction reverts.
-- **Personal Finance / Cash Flow System** — Laravel application for tracking transactions and cash flow.
-- **AI Trading Bot** — Personal project combining Python, AI integration, and trading automation.
-- **Local LLM Lab** — Running 7B–12B models on limited local GPU resources; exploring quantization, basic RAG, and experimental fine-tuning.
-- **IoT Experiments** — Learning hardware/software integration with Arduino Uno and ESP32.
+- **Dell PowerEdge R730** — Restored an unresponsive server after diagnosing motherboard power damage and replacing the board.
+- **Solidity debugging** — Traced repeated sell transaction reverts to incorrect `swapBack` logic.
+- **Cash flow system** — Laravel app for tracking personal transactions and cash flow.
+- **AI trading bot** — Personal Python project combining AI integration and trading automation.
+- **Local LLM lab** — Experiments with 7B–12B models on limited GPU resources, basic RAG, and fine-tuning.
+- **IoT experiments** — Learning hardware/software integration with Arduino Uno and ESP32.
 
-<!-- Add links only when real URLs are available:
-[Case Study](DELL_R730_RECOVERY_CASE_STUDY_URL)
-[Case Study](SOLIDITY_DEBUGGING_CASE_STUDY_URL)
-[Repository](FINANCE_SYSTEM_REPOSITORY_URL) · [Demo](FINANCE_SYSTEM_DEMO_URL)
-[Repository](AI_TRADING_BOT_REPOSITORY_URL) · [Demo](AI_TRADING_BOT_DEMO_URL)
-[Repository](LOCAL_LLM_LAB_REPOSITORY_URL) · [Case Study](LOCAL_LLM_LAB_CASE_STUDY_URL)
-[Repository](IOT_EXPERIMENTS_REPOSITORY_URL) · [Demo](IOT_EXPERIMENTS_DEMO_URL)
--->
+<!-- Add Repository, Demo, or Case Study links beside each project only when URLs are available. -->
 
-## Currently Learning
+## Education & Certifications
 
-- **Security** — HTB Academy Web Penetration Tester path (in progress), web penetration testing, Linux & infrastructure security fundamentals.
-- **Local AI** — llama.cpp, LM Studio, Transformers, GGUF / Safetensors, quantized inference, basic RAG, and experimental fine-tuning.
-- **Embedded Systems** — Arduino & ESP32 through personal projects.
-
-## Education
-
-**Universitas Terbuka** — Bachelor's Degree in Information Systems · In progress  
+**Universitas Terbuka** — Bachelor's in Information Systems · In progress  
 **SMK Negeri 1 Bireuen** — Computer and Network Engineering (TKJ)
 
-## Certifications
-
-- Web Developer with Laravel 11 & Spatie: Website Fundraising — BuildWithAngga
-- Bootcamp Full-Stack Web Developer: Sewa Mobil — BuildWithAngga
+BuildWithAngga:
+- Web Developer with Laravel 11 & Spatie: Website Fundraising
+- Bootcamp Full-Stack Web Developer: Sewa Mobil
 
 ---
 
-Interested in systems, Linux, automation, or a technical problem worth digging into? Feel free to reach out.
+Working on systems, Linux, automation, or an interesting technical problem? Feel free to reach out.
 
-<!-- [LinkedIn](LINKEDIN_URL) · [Portfolio](PORTFOLIO_URL) · [Email](mailto:EMAIL_ADDRESS) -->
+<!-- Replace placeholders and remove the comment markers to show your links:
+[LinkedIn](LINKEDIN_URL) · [Portfolio](PORTFOLIO_URL) · [Email](mailto:EMAIL_ADDRESS)
+-->
